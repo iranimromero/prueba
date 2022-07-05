@@ -1,10 +1,10 @@
-{
+[{
     "nombre":"Taladro",
     "descripcion":"Ingco inalambrico",
     "imagen":"https://drive.google.com/file/d/1HI-jEW49RTq5klGV9HlwJ1oR6wLKhx8F/view?usp=sharing",
     "categoria":"Herramientas",
     "precio":5000
-}
+},
 
 {
     "nombre":"Esmeril",
@@ -12,7 +12,7 @@
     "imagen":"https://drive.google.com/file/d/1HI-jEW49RTq5klGV9HlwJ1oR6wLKhx8F/view?usp=sharing",
     "categoria":"Herramientas",
     "precio":3500
-}
+},
 
 {
     "nombre":"Set de jardineria",
@@ -20,4 +20,4 @@
     "imagen":"https://drive.google.com/file/d/1HI-jEW49RTq5klGV9HlwJ1oR6wLKhx8F/view?usp=sharing",
     "categoria":"Jardineria",
     "precio":500
-}
+}]
